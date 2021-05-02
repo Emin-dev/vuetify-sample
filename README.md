@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/SchnapsterDog/vuetify-sample)
+
 # Adopt a Dog - Vuetify Sample with Persisted Table
 
 Vuetify applicaiton that allows the user to view a list of objects, sort/filter the list and load a specific object's detail view. The app use the following components:
